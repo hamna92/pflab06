@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+float cost(string city,string producttype,float quantity);
+main()
+{
+ string city;
+ string producttype;
+ float quantity;
+ cout<<"enter name of city:";
+ cin>>city;
+ cout<<"enter the producttype":;
+ cin>>producttype;
+ cout<<"enter the quantity";
+ cin>>quantity;
+ cost(city,producttype,quantity);
+}
+
+ float cost(string city,string producttype,float quantity)
+ {
+    float result= cost;
+ if(city=="varna"&&producttype==coffee&&quantity==2)
+ {
+    cost=
+ }
+
+}

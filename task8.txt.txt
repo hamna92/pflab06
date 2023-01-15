@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+float moneyleft(float budget, string type, float quantity);
+main()
+{
+  float budget;
+  string type;
+  float quantity;
+  cout<<"enter the type:";
+  cin>>type;
+  cout<<"enter the quantity";
+  cin>>quantity;
+  cout<<"enter the quantity";
+  cin>>quantity;
+  
+   
+
+
+}
